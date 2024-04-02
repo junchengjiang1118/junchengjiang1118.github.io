@@ -13,4 +13,4 @@ I'm a spohomore undergraduate student from [School of Public Finance and Taxatio
   
  You can find my CV here: [JunchengJiang's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
- [Email](mailto:jc_jiang@stu.zuel.edu.cn) / [Github](https://github.com/junchengjiang1118) / [Wechat](../images/wechat.jpg) / [CSDN](https://blog.csdn.net/qd1813100174?spm=1000.2115.3001.5343)
+ [Email](mailto:jc_jiang@stu.zuel.edu.cn) / [Wechat](../images/vx.png) / [Tel](+86 15129658065)
