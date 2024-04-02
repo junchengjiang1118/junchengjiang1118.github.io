@@ -22,11 +22,12 @@ repository               : "junchengjiang1118/junchengjiang1118.github.io"
 author:
   # Biographic information
   avatar           : "jjcphoto.png"
-  name             : "Juncheng Jiang      (江俊澄）"
+  name             : "Juncheng Jiang"
   pronouns         : # example: "she/her"  
   bio              : "Good things come to those who wait."
   location         : "Wuhan China"
-  employer         : "Zhongnan University of Economics and Law"
+  employer         : "ZUEL"
+  hometown         : "Xi'an China"
   uri              : # URL
   email            : "junchengjiang1118@gmail.com" 
   # Academic websites
