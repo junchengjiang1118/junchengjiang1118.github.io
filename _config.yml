@@ -8,11 +8,11 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Juncheng Jiang / Personal Homepage"
+title                    : "Juncheng Jiang/Personal Homepage"
 title_separator          : "-"
 name                     : &name "Juncheng Jiang"
 description              : &description "a sophomore from Zhongnan University of Economics and Law"
-url                      : https://junchengjiang1118.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://junchengjiang1118.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "junchengjiang1118/junchengjiang1118.github.io"
 
