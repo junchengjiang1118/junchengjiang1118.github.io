@@ -11,6 +11,6 @@ I'm a spohomore undergraduate student from [School of Public Finance and Taxatio
 
  I am willing to engage in economic research as a job for a lifetime in the future.This requires me to further my studies at a prestigious university as a doctoral student to qualify it. So, applying for a doctoral program is my short-term goal currently. 
   
- You can find my CV here: [JunchengJiang's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
+ You can find my CV here: [JunchengJiang's Curriculum Vitae](../assets/Juncheng Jiang's Curriculum Vitae.pdf).
 
  [Email](mailto:junchengjiang1118@gmail.com) :junchengjiang1118@gmail.com/ czxiaomo@sina.com/ jc_jiang@stu.zuel.edu.cn | [Wechat](../images/vx.png) :15129658065 | Tel :+86 15129658065
