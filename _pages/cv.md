@@ -16,7 +16,7 @@ Education
 Work  experience
 ======
 * Fall 2023-Now: Research Assistant:
-  * Zjongnan University of Economics and Law
+  * Zhongnan University of Economics and Law
   * Duties includes:
      * Assisting in collating literature and proofreading working paper.  
      * Writing and organizing a part of the policy reports in a project.  
