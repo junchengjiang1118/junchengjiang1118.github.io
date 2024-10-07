@@ -13,31 +13,27 @@ Education
 ======
 * B.S. in economics, Zhongnan University of Economics and Law, 2026
 
-Work experience
+Work  experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Fall 2023- Now: Research Assistant:
+  * Zjongnan University of Economics and Law
+  * Duties includes: Assisting in collating literature and proofreading working paper.
+                     Writing and organizing a part of the policy reports in a project.
+                     Participating in the Public Economics Seminars created by her and her coauthor
+  * Supervisor: Dr Xiaoxiao Wang
 
-* Fall 2023: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Fall 2024: Teaching Assistant (Industrial Economics, National Budget Management) 
+  * Zhongnan University of Economics and Law
+  * Duties included: Arranging students' presentations and the flipped class
+  * Supervisor: Dr. Jiangchuan Xu (Industrial Economics), Prof. Jinxiu Wang & Prof. Yinmei Wang (National Budget Management)
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Stata
+* MATLAB
+* LaTeX
+* Python
 
 Recent Interests
 ======
@@ -51,7 +47,7 @@ Talks and Presentations
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
-Teaching
+Projects and Research Experience
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
@@ -59,4 +55,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Created a undergraduates seminar to learn how to do economics research in Student Research Center
