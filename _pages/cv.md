@@ -17,9 +17,10 @@ Work  experience
 ======
 * Fall 2023-Now: Research Assistant:
   * Zjongnan University of Economics and Law
-  * Duties includes: * Assisting in collating literature and proofreading working paper.  
-                     * Writing and organizing a part of the policy reports in a project.  
-                     * Participating in _the Public Economics Seminars_ created by her and her coauthor.  
+  * Duties includes:
+     * Assisting in collating literature and proofreading working paper.  
+     * Writing and organizing a part of the policy reports in a project.  
+     * Participating in _the Public Economics Seminars_ created by her and her coauthor.  
   * Supervisor: Dr. Xiaoxiao Wang
 
 * Fall 2024: Teaching Assistant (Industrial Economics, National Budget Management) 
