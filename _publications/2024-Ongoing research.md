@@ -3,7 +3,7 @@ title: "Ongoing research"
 collection: recent interests
 permalink: /publication/2024-Ongoing research
 excerpt: 'This is a theoretical topic I followed recently and I will build a new model based on existing literature.'
-date: 2024
+date: 2024-09-01
 ---
 
 The Optimal VAT(value-added-tax) System Design (the idea subject)
