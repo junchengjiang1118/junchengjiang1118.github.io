@@ -11,7 +11,7 @@ I'm a junior(3rd year) student from [School of Public Finance and Taxation](http
 
 My research interest includes public economics on optimal taxation, fiscal policy etc. In addition, other fields like labour economics and econometrics are also being explored.
 
-I am willing to engage in economic research as a job for a lifetime in the future.This requires me to study further at a prestigious university as a doctoral student to qualify myself for it. Thus, applying for a doctoral program is my short-term goal currently. (Actually, a great master’s program is also acceptable.)
+I am willing to engage in economic research as a job for a lifetime in the future.This requires me to study further at a prestigious university as a doctoral student to qualify myself for it. Thus, applying for a doctoral program is my short-term goal currently. (Actually, a great master or predoctoral program is also acceptable,I am very interested in applying for the RA (Research Assistant) position before enrolling in a top Ph.D. program.)
   
  You can find my CV here: [JunchengJiang's Curriculum Vitae](../assets/Juncheng Jiang's Curriculum Vitae.pdf).
 
