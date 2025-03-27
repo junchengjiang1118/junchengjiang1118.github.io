@@ -26,7 +26,16 @@ Work  experience
 * Fall 2024: Teaching Assistant (Industrial Economics, National Budget Management) 
   * Zhongnan University of Economics and Law
   * Duties included: Arranging students' presentations and the flipped class
-  * Supervisor: Dr. Jiangchuan Xu (Industrial Economics),  Prof. Jinxiu Wang & Prof. Yinmei Wang (National Budget Management)
+  * Instructor: Dr. Jiangchuan Xu (Industrial Economics),  Prof. Jinxiu Wang & Prof. Yinmei Wang (National Budget Management)
+
+Seminars:
+======
+ * 567 Seminar
+    * The 567 Seminar team was established in 2007 and is now led by **Professor Kezhong Zhang**, who serves as the Dean of the School of Public Finance and Taxation. 
+ * Public Economics Workshop
+    * This team was co-founded by **Dr. Xiaoxiao Wang**, **Dr. Xufeng Zhao** and several other Ph.D. graduates from the Department of Public Economics, Peking University.
+ * Classic Economic Literature Camp
+    * This camp, founded by **Assoc. Prof. Weibo Yan  et. al**, aims to review the classic literature contributed a lot in economics for a hundred years.
 
   
 Skills
