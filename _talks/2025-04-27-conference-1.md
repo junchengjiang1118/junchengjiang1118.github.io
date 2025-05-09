@@ -1,7 +1,7 @@
 ---
 title: "Conference: 1st Undergraduate Forum on New Structural Economics"
 collection: talks
-type: "Lecture"
+type: "Presentation"
 permalink: /talks/2025-04-27-conference-1
 venue: "Institute of New Structural Economics, Peking University"
 date: 2025-04-27
@@ -10,12 +10,13 @@ location: "Beijing, China"
 ---
 
 
-This lecture is about the basic introduction of __how to read the ecomomics papers__. The audience is mainly sophomore undergraduate students. <br>
-![image](../images/lecture2.jpg)<br>
-In this lecture, I first explained the necessity of reading literature for every undergraduate student and some common sense that need to be known before reading.<br>
-Then, I systematically explained the classification of article types in economic literature. Also, I pointed out the parts in an article which should pay more attention to for both theoretical and empirical papers .  <br>
-Next, I introduced the methods of intensive reading and extensive reading, as well as their requirements for taking reading notes. <br>
-Finally, I took an article about __Tax Salience__ __(Chetty et al., 2009)__ published on ___the American Economic Review___  as an example to show  how to read and taked intensive reading notes
+On April 27, 2025, the first Undergraduate Forum on New Structural Economics was successfully held at the Langrun Garden of Peking University. <br>
 
+During this conference, I presented a working paper titled *Taxpayer Status and Monopoly Markup in Vertical Industrial Structure* at Sub-forum II "Industrial Policy and Technological Innovation".  <br>
+![image](../images/conference1-1.jpg)<br>
+![image](../images/conference1-2.jpg)<br>
+![image](../images/conference1-3.jpg)<br>
+Thanks to Yong Wang(PKU), Chunzan Wu(PKU) for helpful comments and discussions.
 
-You can find my [slides](../slides/How To Read The Economics Papers__JIANG.pdf) here.
+Here is the [slides](../slides/How To Read The Economics Papers__JIANG.pdf) I reported, which is the preliminary results of the working paper.
+
