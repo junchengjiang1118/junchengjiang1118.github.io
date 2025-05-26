@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a junior(3rd year) student from [School of Public Finance and Taxation](https://csxy.zuel.edu.cn/), [Zhongnan University of Economics and Law](https://english.zuel.edu.cn/) and I will obtain my Bachelor's degree in **May 2026**. 
+My name is **Juncheng Jiang** (Pronounced approximately _June-chung Jee-ahng_) and I'm a junior(3rd year) student from [School of Public Finance and Taxation](https://csxy.zuel.edu.cn/), [Zhongnan University of Economics and Law](https://english.zuel.edu.cn/). I will obtain my Bachelor's degree in **May 2026**. 
 
 My research interests include **public economics** on optimal taxation, fiscal policy and **labour economics** on education for human capital, income distribution. In addition, other fields like _**development economics**_ and _**industrial economics**_ are also being explored. I am willing to explore these fields in **both theoretical and empirical ways**.
 
