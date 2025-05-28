@@ -1,12 +1,12 @@
 ---
-title: "Ongoing research: Tax Distortion and Monopoly Markup in Vertical Industrial Structure(temporary)"
+title: "Ongoing research: Taxpayer Status and Monopoly Markup in Vertical Industrial Structure(preliminary)"
 collection: recent interests
 permalink: /recent interests/2024-Ongoing research
 excerpt: 'This is a theoretical topic I followed recently and we hope to finish the initial version in 2025 summer.'
 date: 2025-06-01
 ---
 
-Tax Distortion and Monopoly Markup in Vertical Industrial Structure(temporary)
+Taxpayer Status and Monopoly Markup in Vertical Industrial Structure(preliminary)
 
 We are striving to complete the initial version before 2025 summer.
 
