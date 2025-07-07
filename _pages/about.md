@@ -15,4 +15,4 @@ I am willing to engage in economic research as a job for a lifetime in the futur
   
  You can find my full CV here: [JunchengJiang's Curriculum Vitae](../assets/Juncheng_Jiang_CV_en_250707.pdf). <br> The 2-page [Resume](../assets/Juncheng_Jiang_Resume.pdf) and [Chinese full CV](../assets/江俊澄_CV_cn.pdf) version.
 
- [Email](mailto:junchengjiang1118@gmail.com) :junchengjiang1118@gmail.com/ junchengjiang1118@163.com/ jc_jiang@stu.zuel.edu.cn | Wechat: [QR code](../images/vx.png) | Tel :+86 15129658065
+ [Email](mailto:junchengjiang1118@gmail.com) :<br> junchengjiang1118@gmail.com <br> junchengjiang1118@163.com<br> jc_jiang@stu.zuel.edu.cn | Wechat: [QR code](../images/vx.png) | Tel :+86 15129658065
