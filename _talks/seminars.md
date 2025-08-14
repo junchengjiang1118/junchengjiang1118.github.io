@@ -15,7 +15,7 @@ location: "Wuhan, China / Online"
 **Expertise** [slides](../slides/Expertise_2025_JEEA.pdf)
 David Autor, Neil Thompson, Expertise, _Journal of the European Economic Association_, Volume 23, Issue 4, August 2025, Pages 1203–1271, https://doi.org/10.1093/jeea/jvaf023
 
-**Uninsured Idiosyncratic Risk and Aggregate Saving.** [slides](../slides/Aiyagari__1994_QJE (J.Jiang0718).pdf)
+**Uninsured Idiosyncratic Risk and Aggregate Saving.** [slides](../slides/Aiyagari__1994_QJE.pdf)
 S. Rao Aiyagari, Uninsured Idiosyncratic Risk and Aggregate Saving, *The Quarterly Journal of Economics*, Volume 109, Issue 3, August 1994, Pages 659–684, https://doi.org/10.2307/2118417
 Aiyagari, S. R. (1994). Uninsured idiosyncratic risk and aggregate saving. The Quarterly Journal of Economics, 109(3), 659-684.
 
