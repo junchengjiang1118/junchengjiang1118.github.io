@@ -12,7 +12,7 @@ location: "Wuhan, China / Online"
 **These are the literature that I have intensively read and reported, along with the slides I created/used.**
 
 ---
-**Wealth Tax Enforcement in Sweden: Filing Requirements and Pre-Populated Returns** (2025-11-13) [Slides](../slides/Wealth_Tax_Enforcement_in_Sweden_JPubE_2025(567_Seminar_25_Fall).pdf)
+**Wealth Tax Enforcement in Sweden: Filing Requirements and Pre-Populated Returns** (2025-11-13) [Slides](../slides/Wealth Tax Enforcement in Sweden_JPubE_2025(567_Seminar_25_Fall).pdf)
 
 Emmanuel Saez and David Seim, "Wealth tax enforcement in Sweden: Filing requirements and pre-populated returns", _Journal of Public Economics_, Volume 249, Pages 105440, 2025, https://doi.org/10.1016/j.jpubeco.2025.105440
 
