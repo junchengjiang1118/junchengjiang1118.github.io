@@ -12,16 +12,21 @@ location: "Wuhan, China / Online"
 **These are the literature that I have intensively read and reported, along with the slides I created/used.**
 
 ---
+**Wealth Tax Enforcement in Sweden: Filing Requirements and Pre-Populated Returns** (2025-11-13) [Slides](../slides/Wealth_Tax_Enforcement_in_Sweden_JPubE_2025(567_Seminar_25_Fall).pdf)
+
+Emmanuel Saez and David Seim, "Wealth tax enforcement in Sweden: Filing requirements and pre-populated returns", _Journal of Public Economics_, Volume 249, Pages 105440, 2025, https://doi.org/10.1016/j.jpubeco.2025.105440
+
+
 **Expertise** (2025-08-15) [Slides](../slides/Expertise_2025_JEEA.pdf)  
 
-David Autor, Neil Thompson, Expertise, _Journal of the European Economic Association_, Volume 23, Issue 4, August 2025, Pages 1203–1271, https://doi.org/10.1093/jeea/jvaf023
+David Autor, Neil Thompson, "Expertise", _Journal of the European Economic Association_, Volume 23, Issue 4, August 2025, Pages 1203–1271, https://doi.org/10.1093/jeea/jvaf023
 
 
 
 **Uninsured Idiosyncratic Risk and Aggregate Saving.** (2025-07-18)
 [Slides](../slides/Aiyagari__1994_QJE.pdf) 
 
-S. Rao Aiyagari, Uninsured Idiosyncratic Risk and Aggregate Saving, *The Quarterly Journal of Economics*, Volume 109, Issue 3, August 1994, Pages 659–684, https://doi.org/10.2307/2118417
+S. Rao Aiyagari, "Uninsured Idiosyncratic Risk and Aggregate Saving", *The Quarterly Journal of Economics*, Volume 109, Issue 3, August 1994, Pages 659–684, https://doi.org/10.2307/2118417
 
 
 
