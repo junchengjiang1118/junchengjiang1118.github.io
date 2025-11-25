@@ -5,10 +5,9 @@ permalink: /miscellaneous/
 author_profile: true
 ---
 
-
 {% include base_path %}
 
 
-{% for post in site.miscellaneous %}
-  {% include archive-single.html %}
+{% for post in site.miscellaneous reversed %}
+  {% include archive-single-miscellaneous.html %}
 {% endfor %}
