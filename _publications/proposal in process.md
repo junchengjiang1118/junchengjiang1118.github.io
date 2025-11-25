@@ -8,9 +8,11 @@ date: 2025-11-01
 
 Follow the man you serve: Will the move up of your leader affect your political career?
 
-*Key questions and motivation:*
+**Key questions and motivation:**
 
-*identify the nepotism in politics;*
-*examine the mechanism of moving up underneath political achievements;*
+*Network: identify the nepotism in politics;*
+
+*Piddle: examine the mechanism of moving up underneath political achievements;*
+
 *For pomotion: genuine talent? or feeding nudge?*
 
