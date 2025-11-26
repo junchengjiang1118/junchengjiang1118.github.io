@@ -6,13 +6,13 @@ excerpt: 'This is a new idea come up joint with Yiyang Shao and we are construct
 date: 2025-11-01
 ---
 
-Follow the man you serve: Will the move up of your leader affect your political career?
+___Follow the man you serve: Will the move up of your leader affect your political career?___
 
 **Key questions and motivation:**
 
 *Network: identify the nepotism in politics;*
 
-*Piddle: examine the mechanism of moving up underneath political achievements;*
+*Riddle: examine the mechanism of moving up underneath political achievements;*
 
 *For pomotion: genuine talent? or feeding nudge?*
 
