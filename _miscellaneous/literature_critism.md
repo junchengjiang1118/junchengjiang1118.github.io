@@ -1,8 +1,8 @@
 ---
 title: " Literature critism: Appreciation of English Short Stories"
-collection: 
+collection: miscellaneous
 type: ""
-permalink: /miscellaneous/literature critism
+permalink: /miscellaneous/literature_critism
 venue: ""
 date: 2025-09
 excerpt: 'In 25 fall, I took an elective course on Appreciation of English Short Stories '
