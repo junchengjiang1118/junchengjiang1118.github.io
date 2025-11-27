@@ -1,10 +1,10 @@
 ---
-title: " Literature critism: Appreciation of English Short Stories"
+title: "Literature critism: Appreciation of English Short Stories"
 collection: miscellaneous
-type: ""
+type: "course assignment"
 permalink: /miscellaneous/literature_critism
-venue: ""
-date: 2025-09
+venue: "Zhongnan University of Economics and Law"
+date: 2025-09-01
 excerpt: 'In 25 fall, I took an elective course on Appreciation of English Short Stories '
 location: "Wuhan, China "
 ---
