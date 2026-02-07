@@ -8,6 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
+site_theme               : "air" # Currently available options are "default", "air"
 title                    : "Juncheng Jiang/Personal Homepage"
 title_separator          : "-"
 name                     : &name "JunchengJiang"
@@ -23,7 +24,7 @@ author:
   # Biographic information
   avatar           : "4.jpg"
   name             : "Juncheng Jiang 江俊澄"
-  pronouns         : # example: "she/her"  
+  pronouns         : # example: "he/his"  
   bio              : "Good things come to those who wait."
   location         : "Wuhan China"
   employer         : "ZUEL"
@@ -212,7 +213,9 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
-
+  miscellaneous:
+    output: true
+    permalink: /:collection/:path/
 
 # Defaults
 defaults:
@@ -269,7 +272,14 @@ defaults:
       layout: talk
       author_profile: true
       share: true
-
+  # _miscellaneous
+  - scope:
+      path: ""
+      type: miscellaneous
+    values:
+      layout: single
+      author_profile: true
+      share: true
 
 # Sass/SCSS
 sass:
