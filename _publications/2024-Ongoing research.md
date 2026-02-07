@@ -1,7 +1,7 @@
 ---
-title: "Ongoing research: Taxpayer Status and Monopoly Markup in Vertical Industrial Structure(preliminary)"
-collection: recent interests
-permalink: /recent interests/2024-Ongoing research
+title: "Working Paper: Taxpayer Status and Monopoly Markup in Vertical Industrial Structure(preliminary)"
+collection: ongoing work
+permalink: /ongoing work/2024-Ongoing research
 excerpt: 'This is a theoretical topic I followed recently and we hope to finish the initial version in 2025 summer.'
 date: 2025-06-01
 ---
