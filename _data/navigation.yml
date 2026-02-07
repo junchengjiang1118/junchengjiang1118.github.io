@@ -1,7 +1,7 @@
 # main links links
 main:
-  - title: "Recent interests"
-    url: /recent interests/
+  - title: "Ongoing Work"
+    url: /ongoing work/
 
   - title: "Talks and Presentations"
     url: /talks/    
@@ -9,8 +9,8 @@ main:
   - title: "Projects and Research Experience"
     url: /projects and research experience/
   
- # - title: "Teaching"r
- #  url: /teaching/    
+  - title: "Teaching"
+    url: /teaching/    
     
  # - title: "Portfolio"
 #    url: /portfolio/
