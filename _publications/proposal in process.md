@@ -2,7 +2,7 @@
 title: "Proposal in process: the nepotism and promotion in politics"
 collection: recent interests
 permalink: /recent interests/proposal in process
-excerpt: 'This is a new idea come up joint with Yiyang Shao and we are constructing the draft propsal recently.'
+excerpt: 'This is a new idea come up joint with [Yiyang Shao](https://yiyshao.github.io/) and we are constructing the draft propsal recently.'
 date: 2025-11-01
 ---
 
