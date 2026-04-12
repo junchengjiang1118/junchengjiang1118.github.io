@@ -6,12 +6,12 @@ redirect_from:
   - /about/
   - /about.html
 ---
- My name is **Juncheng Jiang** (Pronounced approximately _June-chung Jee-ahng_) and I'm a senior year student from [School of Public Finance and Taxation](https://csxy.zuel.edu.cn/), [Zhongnan University of Economics and Law](https://english.zuel.edu.cn/). I will obtain my Bachelor's degree in **May 2026**. 
+ My name is **Juncheng Jiang** (Pronounced approximately _June-chung Jee-ahng_) and I'm a senior year student from [School of Public Finance and Taxation](https://csxy.zuel.edu.cn/), [Zhongnan University of Economics and Law](https://english.zuel.edu.cn/). I will obtain my Bachelor's degree in **June 2026**. In this August, I will start my master study in [Department of Economics](https://econ.duke.edu/) at [Duke University](https://www.duke.edu/).
 
 My research interests include **public economics** on optimal taxation, income distribution and **macroeconomics** on entrepreneurship and human capital, fiscal policy and economic growth. Some topics can also intersect among other fields like _political economics_, _labor economics and _industrial economics_. I am willing to explore these fields in **both theoretical and empirical ways**, combining *theoretical models, historical data, and new large-scale surveys*.  <br> Here is the detailed [Research Interests Statement](../assets/Research Interests Statement__Juncheng Jiang.pdf).
 
-> I am willing to engage in economic research as a job for a lifetime in the future.This requires me to study further at a prestigious university as a doctoral student to qualify myself for it. Currently, I am in **Application Season** for the **Academic-oriented MA/Mphil** program. ( I am very willing to apply for **Pre-doctoral** fellow before enrolling in **a top Ph.D. program**. If there are suitable projects or positions, please feel free to contact me. )
+> I am willing to engage in economic research as a job for a lifetime in the future.This requires me to study further at a prestigious university as a doctoral student to qualify myself for it. ( I am very willing to apply for **Pre-doctoral** fellow before enrolling in **a top Ph.D. program**. If there are suitable projects or positions, please feel free to contact me. )
   
  You can find my full CV here: [JunchengJiang's Curriculum Vitae](../assets/Juncheng_Jiang_CV.pdf). <br> The 2-page [Resume](../assets/Juncheng_Jiang_Resume.pdf) and [Chinese full CV](../assets/江俊澄_CV_cn.pdf) version.
  
- [Email](mailto:junchengjiang1118@gmail.com) :<br> junchengjiang1118@gmail.com <br> junchengjiang1118@163.com<br> jc_jiang@stu.zuel.edu.cn | Wechat: [QR code](../images/vx.png) | Tel :+86 15129658065
+ [Email](mailto:junchengjiang1118@gmail.com) :<br> junchengjiang1118@gmail.com <br> junchengjiang1118@163.com<br> juncheng.jiang@duke.edu <br> jc_jiang@stu.zuel.edu.cn | Wechat: [QR code](../images/vx.png) | Tel :+86 15129658065
