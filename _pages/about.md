@@ -12,6 +12,6 @@ My research interests include **public economics** on optimal taxation, income d
 
 > I am willing to engage in economic research as a job for a lifetime in the future.This requires me to study further at a prestigious university as a doctoral student to qualify myself for it. ( I am very willing to apply for **Pre-doctoral** fellow before enrolling in **a top Ph.D. program**. If there are suitable projects or positions, please feel free to contact me. )
   
- You can find my full CV here: [JunchengJiang's Curriculum Vitae](../assets/JunchengJiang's_Curriculum_Vitae.pdf). <br> The 2-page [Resume](../assets/Juncheng_Jiang_Resume.pdf) and [Chinese full CV](../assets/江俊澄_CV_cn.pdf) version.
+ You can find my full CV here: [JunchengJiang's Curriculum Vitae](../assets/JunchengJiang’s Curriculum Vitae.pdf). <br> The 2-page [Resume](../assets/Juncheng_Jiang_Resume.pdf) and [Chinese full CV](../assets/江俊澄_CV_cn.pdf) version.
  
  [Email](mailto:junchengjiang1118@gmail.com) :<br> junchengjiang1118@gmail.com <br> junchengjiang1118@163.com<br> juncheng.jiang@duke.edu <br> jc_jiang@stu.zuel.edu.cn | Wechat: [QR code](../images/vx.png) | Tel :+86 15129658065
