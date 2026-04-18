@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "air" # Currently available options are "default", "air"
-title                    : "Juncheng Jiang/Personal Homepage"
+title                    : "Juncheng's Homepage"
 title_separator          : "-"
 name                     : &name "JunchengJiang"
 description              : &description "personal description"
@@ -26,8 +26,8 @@ author:
   name             : "Juncheng Jiang 江俊澄"
   pronouns         : # example: "he/his"  
   bio              : "Good things come to those who wait."
-  location         : "Wuhan China"
-  employer         : "ZUEL"
+  location         : "Durham, North Carolina"
+  employer         : "Duke"
   hometown         : "Xi'an China"
   uri              : # URL
   email            : "junchengjiang1118@gmail.com" 
