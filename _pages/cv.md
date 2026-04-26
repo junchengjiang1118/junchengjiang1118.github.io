@@ -11,11 +11,12 @@ redirect_from:
 
 Education
 ======
-* B.S. in economics, Zhongnan University of Economics and Law, 2026
+* M.A. in Economics, Duke University, Expected 2028
+* B.S. in Economics, Zhongnan University of Economics and Law, 2026
 
 Work  experience
 ======
-* Fall 2023-Now: Research Assistant:
+* Fall 2023-Now: Undergraduate Research Fellow:
   * Zhongnan University of Economics and Law
   * Duties includes:
      * Assisting in collating literature and proofreading working paper.  
@@ -23,15 +24,15 @@ Work  experience
      * Participating in _the Public Economics Seminars_ created by her and her coauthor.  
   * Supervisor: Dr. Xiaoxiao Wang
 
-* Fall 2024: Teaching Assistant (Industrial Economics, National Budget Management) 
+* Fall 2024: Teaching Assistant (Economics of Taxation, Industrial Economics, National Budget Management) 
   * Zhongnan University of Economics and Law
   * Duties included: Arranging students' presentations and the flipped class
-  * Instructor: Dr. Jiangchuan Xu (Industrial Economics),  Prof. Jinxiu Wang & Prof. Yinmei Wang (National Budget Management)
+  * Instructor: Dr. Xiaoxiao Wang (Economics of Taxation), Dr. Jiangchuan Xu (Industrial Economics),  Prof. Jinxiu Wang & Prof. Yinmei Wang (National Budget Management)
 
 Seminars:
 ======
  * 567 Seminar
-    * The 567 Seminar team was established in 2007 and is now led by **Professor Kezhong Zhang**, who serves as the Dean of the School of Public Finance and Taxation. 
+    * The 567 Seminar team was established in 2007 and is now led by **Professor Kezhong Zhang**, who served as the Dean of the School of Public Finance and Taxation. 
  * Public Economics Workshop
     * This team was co-founded by **Dr. Xiaoxiao Wang**, **Dr. Xufeng Zhao** and several other Ph.D. graduates from the Department of Public Economics, Peking University.
  * Classic Economic Literature Camp
