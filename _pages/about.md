@@ -6,11 +6,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
- My name is **Juncheng Jiang** (Pronounced approximately _June-chung Jee-ahng_) and I'm a first-year MA (2026-2028) student in [Department of Economics](https://econ.duke.edu/) at [Duke University](https://www.duke.edu/). Before that, I obtained my  Bachelor's degree in Economics from Mainland China.
+Welcome! My name is **Juncheng Jiang** (Pronounced approximately _June-chung Jee-ahng_) and I'm a first-year MA (2026-2028) student in [Department of Economics](https://econ.duke.edu/) at [Duke University](https://www.duke.edu/). Before that, I obtained my  Bachelor's degree in Economics from Mainland China.
 
 My research interests include **public economics** on optimal taxation, income distribution and **macroeconomics** on entrepreneurship and human capital, fiscal policy and economic growth. Some topics can also intersect among other fields like _political economics_, _labor economics_ and _industrial organization_. I am willing to explore these fields in **both theoretical and empirical ways**, combining *theoretical models, historical data, and new large-scale surveys*.  <br> Here is the detailed [Research Interests Statement](../assets/Research Interests Statement__Juncheng Jiang.pdf).
 
-> I am willing to engage in economic research as a job for a lifetime in the future.This requires me to study further at a prestigious university as a doctoral student to qualify myself for it. ( I am very willing to apply for **Pre-doctoral** fellow before enrolling in **a top Ph.D. program**. If there are suitable projects or positions, please feel free to contact me. )
+> I am willing to engage in economic research as a job for a lifetime in the future.This requires me to study further at a prestigious university as a doctoral student to qualify myself for it. ( I am very willing to apply for **Pre-doctoral** fellow before enrolling in **a top Ph.D. program**. If there are suitable projects or positions, please feel free to contact me. ) Any criticism and suggestions are welcome to email me!
   
  You can find my full CV here: [JunchengJiang's Curriculum Vitae](../assets/JunchengJiang’s Curriculum Vitae.pdf). <br> The 2-page [Resume](../assets/Juncheng_Jiang_Resume.pdf) and [Chinese full CV](../assets/江俊澄_CV_cn.pdf) version.
  
