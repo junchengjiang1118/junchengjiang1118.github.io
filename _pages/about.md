@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
- My name is **Juncheng Jiang** (Pronounced approximately _June-chung Jee-ahng_) and I'm a senior year student from [School of Public Finance and Taxation](https://csxy.zuel.edu.cn/), [Zhongnan University of Economics and Law](https://english.zuel.edu.cn/). I will obtain my Bachelor's degree in **June 2026**. In this August, I will start my master study in [Department of Economics](https://econ.duke.edu/) at [Duke University](https://www.duke.edu/).
+ My name is **Juncheng Jiang** (Pronounced approximately _June-chung Jee-ahng_) and I'm a first-year MA (2026-2028) student in [Department of Economics](https://econ.duke.edu/) at [Duke University](https://www.duke.edu/). Before that, I obtained my  Bachelor's degree in Economics from Mainland China.
 
 My research interests include **public economics** on optimal taxation, income distribution and **macroeconomics** on entrepreneurship and human capital, fiscal policy and economic growth. Some topics can also intersect among other fields like _political economics_, _labor economics_ and _industrial organization_. I am willing to explore these fields in **both theoretical and empirical ways**, combining *theoretical models, historical data, and new large-scale surveys*.  <br> Here is the detailed [Research Interests Statement](../assets/Research Interests Statement__Juncheng Jiang.pdf).
 
@@ -14,4 +14,4 @@ My research interests include **public economics** on optimal taxation, income d
   
  You can find my full CV here: [JunchengJiang's Curriculum Vitae](../assets/JunchengJiang’s Curriculum Vitae.pdf). <br> The 2-page [Resume](../assets/Juncheng_Jiang_Resume.pdf) and [Chinese full CV](../assets/江俊澄_CV_cn.pdf) version.
  
- [Email](mailto:junchengjiang1118@gmail.com) :<br> junchengjiang1118@gmail.com <br> junchengjiang1118@163.com<br> juncheng.jiang@duke.edu <br> jc_jiang@stu.zuel.edu.cn | Wechat: [QR code](../images/vx.png) | Tel :+86 15129658065
+ [Email](mailto:junchengjiang1118@gmail.com) :<br> junchengjiang1118@gmail.com <br> juncheng.jiang@duke.edu  | Wechat: [QR code](../images/vx.png) | Tel :+86 15129658065
