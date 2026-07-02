@@ -1,6 +1,6 @@
 ---
 title: "Short course: Stata Training Camp"
-collection: Teaching and Learning
+collection: teaching and learning
 type: "Teaching"
 permalink: /teaching and learning/stata-camp
 excerpt: 'I have taught Stata Training Camp, which is open to undergraduate and graduate students.'
