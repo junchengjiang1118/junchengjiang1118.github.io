@@ -3,7 +3,7 @@ title: "Econ-math Guide for Undergraduates "
 collection: teaching and learning
 type: "Learning"
 permalink: /teaching and learning/Econ-math guide
-excerpt: 'A guide to mathematics for undergraduate economics students, with recommended textbooks and study paths for both math-rich and math-poor backgrounds. Full file[here]()'
+excerpt: 'A guide to mathematics for undergraduate economics students, with recommended textbooks and study paths for both math-rich and math-poor backgrounds. Full file PDF version [here](../teaching/A Guide to Mathematics for Undergraduate Economics Students.pdf).'
 venue: "Undergraduate Economics Students"
 date: 2026-06-20
 ---
@@ -13,6 +13,7 @@ date: 2026-06-20
 
 **Juncheng Jiang**  
 *2026.6*
+*PDF version [here](../teaching/A Guide to Mathematics for Undergraduate Economics Students.pdf)*
 
 ---
 
