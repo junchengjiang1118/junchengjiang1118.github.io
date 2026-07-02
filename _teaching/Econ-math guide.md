@@ -13,6 +13,7 @@ date: 2026-06-20
 
 **Juncheng Jiang**  
 *2026.6*
+
 *PDF version [here](../teaching/A Guide to Mathematics for Undergraduate Economics Students.pdf)*
 
 ---
