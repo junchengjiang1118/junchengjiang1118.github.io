@@ -2,7 +2,7 @@
 title: "Short course: Stata Training Camp"
 collection: Teaching and Learning
 type: "Teaching"
-permalink: /teaching/stata-camp
+permalink: /teaching and learning/stata-camp
 excerpt: 'I have taught Stata Training Camp, which is open to undergraduate and graduate students.'
 venue: "Zhongnan University of Economics and Law"
 date: 2024-11-17
