@@ -19,7 +19,7 @@ Special attention is given to _the fundamental theorems of welfare economics_, _
 
 Benefiting from the leisure time after completing graduate school applications, I have had the opportunity to compile these lecture notes. I hope the notes serve as a useful resource for both instructors and students in their exploration of public economics.
 
-You can download them for self-learning here: [Lecture Notes](../_teaching/Lecture_Notes_for_Intermediate_Public_Economics.pdf) and the Chinese version [中级公共经济学](../_teaching/中级公共经济学.pdf) .
+You can download them for self-learning here: [Lecture Notes](../teaching/Lecture_Notes_for_Intermediate_Public_Economics.pdf) and the Chinese version [中级公共经济学](../teaching/中级公共经济学.pdf) .
 
 
 
