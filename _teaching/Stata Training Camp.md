@@ -1,7 +1,7 @@
 ---
 title: "Short course: Stata Training Camp"
 collection: teaching and learning
-type: "teaching"
+type: "Teaching"
 permalink: /teaching and learning/Stata Training Camp
 venue: "Zhongnan University of Economics and Law"
 date: 2024-11-17
