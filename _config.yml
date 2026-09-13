@@ -13,7 +13,7 @@ title                    : "Juncheng's Homepage"
 title_separator          : "-"
 name                     : &name "JunchengJiang"
 description              : &description "personal description"
-url                      : https://junchengjiang1118.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://junchengjiang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "junchengjiang1118/junchengjiang1118.github.io"
 
