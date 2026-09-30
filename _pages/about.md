@@ -14,4 +14,4 @@ My research interests include **(macro) public economics** on tax reform, optima
   
  You can find my full CV here: [JunchengJiang's Curriculum Vitae](../assets/JunchengJiang’s Curriculum Vitae.pdf). <br> The 2-page [Resume](../assets/Juncheng_Jiang_Resume.pdf) and [Chinese full CV](../assets/江俊澄_CV_cn.pdf) version. Here is the [official profile](https://scholars.duke.edu/person/Juncheng.Jiang) supported by Scholars@Duke.
  
- [Email](mailto:juncheng.jiang@duke.edu) :<br> juncheng.jiang@duke.edu <br> junchengjiang1118@gmail.com  | Wechat: [QR code](../images/vx.png) | Tel :+1 (984) 998-0000 <br> (lucky to get this fancy number)
+ [Email](mailto:juncheng.jiang@duke.edu) :<br> juncheng.jiang@duke.edu <br> junchengjiang1118@gmail.com  | Address: 213 Social Sciences <br> 419 Chapel Drive <br> Durham, N.C. 27708-0097 | Tel :+1 (984) 998-0000 <br> (lucky to get this fancy number)
