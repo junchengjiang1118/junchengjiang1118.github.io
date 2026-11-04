@@ -4,17 +4,32 @@ collection: Presentation
 type: "Presentation"
 permalink: /talks/seminars
 venue: "Offline and Online"
-date: 2025-08-15
+date: 2026-11-06
 excerpt: 'This is a collection of literature I presented at the seminars, and all the slides I created are included in it.'
-location: "Wuhan, China / Online"
+location: "Durham NC / Wuhan, China / Online"
 ---
 
 **These are the literature that I have intensively read and reported, along with the slides I created/used.**
 
 ---
+
+**The Long-Term Impact of Steel Tariffs on U.S. Manufacturing** (2026-11-06) [Slides](../slides/Steel_Slides.pdf)
+
+Lydia Cox，"The Long-Term Impact of Steel Tariffs on U.S. Manufacturing", _Revise and Resubmit, American Economic Review_
+
+
+
+
+**Changing Opportunity: Sociological Mechanisms Underlying Growing Class Gaps and Shrinking Race Gaps in Economic Mobility** (2026-06-04) [Slides](../slides/ChangingOpportunity_Slides.pdf)
+
+Raj Chetty, Will Dobbie, Benjamin Goldman, Sonya R. Porter, and Crystal S. Yang, "Changing Opportunity: Sociological Mechanisms Underlying Growing Class Gaps and Shrinking Race Gaps in Economic Mobility", _Quarterly Journal of Economics_, 141(2): 1137–1210, 2026
+
+
+
 **Wealth Tax Enforcement in Sweden: Filing Requirements and Pre-Populated Returns** (2025-11-13) [Slides](../slides/Wealth Tax Enforcement in Sweden_JPubE_2025(567_Seminar_25_Fall).pdf)
 
 Emmanuel Saez and David Seim, "Wealth tax enforcement in Sweden: Filing requirements and pre-populated returns", _Journal of Public Economics_, Volume 249, Pages 105440, 2025, https://doi.org/10.1016/j.jpubeco.2025.105440
+
 
 
 **Expertise** (2025-08-15) [Slides](../slides/Expertise_2025_JEEA.pdf)  
