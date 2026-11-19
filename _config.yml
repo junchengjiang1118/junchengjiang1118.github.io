@@ -22,11 +22,11 @@ repository               : "junchengjiang1118/junchengjiang1118.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Duke.jpg"
+  avatar           : "BDAY23.jpg"
   name             : "Juncheng Jiang 江俊澄"
-  pronouns         : "he/his"  # example: 
+  pronouns         : "He/His"  # example: 
   bio              : "Good things come to those who wait."
-  location         : "Durham, North Carolina, US"
+  location         : "Durham, North Carolina"
   employer         : "Duke University"
   hometown         : "Xi'an China"
   uri              : "https://scholars.duke.edu/person/Juncheng.Jiang" # URL
