@@ -20,7 +20,7 @@
       s.id = 'mapmyvisitors';
       s.async = true;
       s.src = slot.dataset.src;
-      // the footer is pinned to the page bottom by its measured height; re-measure once the map is in
+      /* footer is pinned by its measured height: re-measure once the map is in */
       s.onload = function () {
         setTimeout(function () { window.dispatchEvent(new Event('resize')); }, 300);
       };
