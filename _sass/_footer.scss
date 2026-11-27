@@ -90,3 +90,46 @@
     }
   }
 }
+
+/* Two-column footer: links and copyright on the left, visitor map on the right */
+.page__footer-row {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5em;
+
+  @include breakpoint($medium) {
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: flex-start;
+  }
+}
+
+.page__footer-main {
+  min-width: 0;
+}
+
+.page__footer-visitors {
+  flex: 0 0 auto;
+  align-self: center;
+
+  @include breakpoint($medium) {
+    align-self: flex-start;
+  }
+}
+
+.page__footer-visitors-label {
+  margin-bottom: 0.5em;
+  font-family: $sans-serif-narrow;
+  font-size: $type-size-6;
+  font-weight: bold;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+}
+
+.page__footer-visitors-slot {
+  /* reserve the map's space so the footer height doesn't jump when it loads */
+  width: 220px;
+  min-height: 150px;
+  border-radius: 6px;
+  overflow: hidden;
+}

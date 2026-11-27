@@ -1,0 +1,39 @@
+{% comment %}
+  Visitor map (MapMyVisitors) shown on the right side of the footer.
+  Set `visitor_map.id` in _config.yml (the value after `d=` in the embed code);
+  leave it blank to hide the map. The script loads only when the footer scrolls into view.
+{% endcomment %}
+{% if site.visitor_map.id %}
+<div class="page__footer-visitors" aria-label="Map of site visitors">
+  <div class="page__footer-visitors-label"><i class="fas fa-globe-americas" aria-hidden="true"></i> Visitors</div>
+  <div class="page__footer-visitors-slot"
+       data-src="https://mapmyvisitors.com/map.js?d={{ site.visitor_map.id }}&cl={{ site.visitor_map.text_color | default: 'ffffff' }}&w={{ site.visitor_map.width | default: 220 }}"></div>
+</div>
+<script>
+  (function () {
+    var slot = document.querySelector('.page__footer-visitors-slot');
+    if (!slot) return;
+    var load = function () {
+      if (slot.dataset.loaded) return;
+      slot.dataset.loaded = '1';
+      var s = document.createElement('script');
+      s.id = 'mapmyvisitors';
+      s.async = true;
+      s.src = slot.dataset.src;
+      // the footer is pinned to the page bottom by its measured height; re-measure once the map is in
+      s.onload = function () {
+        setTimeout(function () { window.dispatchEvent(new Event('resize')); }, 300);
+      };
+      slot.appendChild(s);
+    };
+    if ('IntersectionObserver' in window) {
+      var io = new IntersectionObserver(function (entries) {
+        if (entries[0].isIntersecting) { io.disconnect(); load(); }
+      }, { rootMargin: '200px' });
+      io.observe(slot);
+    } else {
+      load();
+    }
+  })();
+</script>
+{% endif %}
