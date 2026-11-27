@@ -87,7 +87,14 @@ talkmap_link             : false #change to true to add link to talkmap on talks
 visitor_map:
   id                     : "5m2Vz6htuMwNoUFCJm-15OrTpyItyvXLEf73gdk3h3Y"
   width                  : 220
-  text_color             : "ffffff"
+  counter                : "tt"       # tt = total since start, m = last 30 days, t = today
+  since                  : "November 2026"  # caption under the map; leave blank to hide
+  # colors (hex without #), matched to the light-gray footer
+  ocean_color            : "e6e9ea"
+  land_color             : "ffffff"
+  past_dot_color         : "52adc8"
+  recent_dot_color       : "e8833a"
+  text_color             : "6b7378"
 
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
